@@ -26,6 +26,10 @@ searchField.addEventListener("input", function () {
   } else {
     searchField.classList.add("searching");
   }
+  const clearSearch = document.querySelector("[data-clear-search]");
+  clearSearch.addEventListener("click", function () {
+    searchField.value = "";
+  });
   if (searchField.value) {
     searchTimeout = setTimeout(() => {
       fetchData(url.geo(searchField.value), function (locations) {

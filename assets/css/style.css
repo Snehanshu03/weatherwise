@@ -409,6 +409,8 @@ body {
 
 .search-wrapper:has(.searching)::before {
   display: block;
+  position: absolute;
+  right: 48px;
 }
 
 .search-field {
