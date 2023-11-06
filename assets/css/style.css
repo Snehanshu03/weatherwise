@@ -378,6 +378,8 @@ body {
 }
 
 .search-wrapper {
+  display: flex;
+  align-items: center;
   position: relative;
   border-block-end: 1px solid var(--outline);
 }
@@ -418,6 +420,7 @@ body {
   line-height: 80px;
   padding-inline: 56px 16px;
   outline: none;
+  flex: 1;
 }
 
 .search-field::placeholder {
@@ -769,4 +772,7 @@ article.container::before {
 
 #current-location-span {
   display: none;
+}
+#clear-search-button {
+  margin-top: 0;
 }
