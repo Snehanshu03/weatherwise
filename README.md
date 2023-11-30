@@ -9,7 +9,7 @@ Weatherio is a weather application that provides up-to-date weather information,
 
 ## Demo
 
-![APP Demo]([https://via.placeholder.com/800x400?text=AQI+Demo+Her](https://weatherio-prabhat.vercel.app/#/current-location)e)
+![App Demo]([(https://weatherio-prabhat.vercel.app/#/current-location)])
 
 ## Features
 
