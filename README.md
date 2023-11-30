@@ -1,7 +1,7 @@
 
-# Project Title
+# Weatherio
 
-A brief description of what this project does and who it's for
+Weatherio is a weather application that provides up-to-date weather information, including a 5-day weather forecast. Whether you're planning your week or just curious about the weather, Weatherio has got you covered.
 
 ## Tech Stack
 
@@ -9,17 +9,18 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
+![APP Demo]([https://via.placeholder.com/800x400?text=AQI+Demo+Her](https://weatherio-prabhat.vercel.app/#/current-location)e)
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Real-time weather updates
+-  5-day weather forecast
+- Air Quality Monitoring 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![image](https://github.com/Prabhat2912/weatherio/assets/114847239/b3af7bca-f74f-477a-892a-a1ec49bade22)
+)
 
 ## Run Locally
 
@@ -50,12 +51,8 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@prabhat](https://www.github.com/Prabhat2912)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
