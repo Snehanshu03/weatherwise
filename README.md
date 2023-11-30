@@ -19,7 +19,7 @@ You can also check the live demo [here](https://weatherio-prabhat.vercel.app/#/c
 
 ## Screenshots
 
-![App Screenshot]![image](https://github.com/Prabhat2912/weatherio/assets/114847239/b44bdfb7-30cd-47df-bd9f-4fde31cd29fd)
+![image](https://github.com/Prabhat2912/weatherio/assets/114847239/b44bdfb7-30cd-47df-bd9f-4fde31cd29fd)
 
 
 ## Run Locally
