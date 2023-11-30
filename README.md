@@ -15,7 +15,8 @@ You can also check the live demo [here](https://weatherio-prabhat.vercel.app/#/c
 
 - Real-time weather updates
 -  5-day weather forecast
-- Air Quality Monitoring 
+- Air Quality Monitoring
+- Hourly Weather Forecast
 
 ## Screenshots
 
