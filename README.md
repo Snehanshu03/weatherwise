@@ -28,13 +28,13 @@ You can also check the live demo [here](https://weatherio-prabhat.vercel.app/#/c
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Prabhat2912/weatherio
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd weatherio
 ```
 
 Open with VSCode
